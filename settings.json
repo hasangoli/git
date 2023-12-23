@@ -1,0 +1,166 @@
+{
+	"workbench.startupEditor": "none",
+	"editor.suggestSelection": "first",
+	"editor.autoClosingBrackets": "always",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"update.mode": "manual",
+	"update.showReleaseNotes": false,
+	"editor.wordWrap": "on",
+	"workbench.list.smoothScrolling": true,
+	"workbench.editor.closeOnFileDelete": true,
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.editor.titleScrollbarSizing": "large",
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"blade": "html"
+	},
+	"html.format.indentHandlebars": true,
+	"html.format.indentInnerHtml": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"extensionName": ".min.css",
+			"savePath": "~/"
+		}
+	],
+	"liveSassCompile.settings.generateMap": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"path-intellisense.autoSlashAfterDirectory": true,
+	"path-intellisense.showHiddenFiles": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.autoClosingBrackets": "always"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"explorer.confirmDelete": false,
+	"security.workspace.trust.enabled": false,
+	"editor.fontLigatures": true,
+	"explorer.confirmDragAndDrop": false,
+	"html.format.templating": true,
+	"editor.linkedEditing": true,
+	"diffEditor.wordWrap": "on",
+	"code-runner.saveAllFilesBeforeRun": true,
+	"code-runner.saveFileBeforeRun": true,
+	"prettier.arrowParens": "avoid",
+	"editor.autoClosingQuotes": "always",
+	"files.insertFinalNewline": true,
+	"code-runner.runInTerminal": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.wrappingStrategy": "advanced",
+	"files.exclude": {
+		"**/.git": false
+	},
+	"editor.renderWhitespace": "none",
+	"editor.fontFamily": "JetBrains Mono, Roboto Mono, Consolas",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"code-runner.clearPreviousOutput": true,
+	"extensions.ignoreRecommendations": true,
+	"editor.tabSize": 2,
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"git.confirmSync": false,
+	"liveServer.settings.donotVerifyTags": true,
+	"[handlebars]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"html.completion.attributeDefaultValue": "singlequotes",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"git.enableSmartCommit": true,
+	"editor.formatOnSave": true,
+	"workbench.editor.wrapTabs": true,
+	"workbench.preferredHighContrastColorTheme": "GitHub Dark Default",
+	"workbench.preferredLightColorTheme": "GitHub Dark Default",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.tips.enabled": false,
+	"workbench.view.alwaysShowHeaderActions": true,
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.minimap.autohide": true,
+	"blade.format.enable": true,
+	"bladeFormatter.format.noMultipleEmptyLines": true,
+	"editor.formatOnType": true,
+	"[blade]": {
+		"editor.defaultFormatter": "onecentlin.laravel-blade"
+	},
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"bladeFormatter.format.indentSize": 2,
+	"workbench.colorCustomizations": {
+		"editorUnnecessaryCode.border": "#f00"
+	},
+	"javascript.format.semicolons": "insert",
+	"typescript.format.semicolons": "insert",
+	"workbench.colorTheme": "GitHub Dark Default",
+	"typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+	"typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+	"editor.tabCompletion": "on",
+	"emmet.triggerExpansionOnTab": true,
+	"javascript.suggest.completeFunctionCalls": true,
+	"typescript.suggest.completeFunctionCalls": true,
+	"emmet.useInlineCompletions": true,
+	"tailwindCSS.emmetCompletions": true,
+	"intellicodeCompletions.language.javascript": true,
+	"intellicodeCompletions.language.typescript": true,
+	"sass.format.debug": true,
+	"git.openRepositoryInParentFolders": "never",
+	"workbench.productIconTheme": "fluent-icons",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"minify.css": {
+		"advanced": true,
+		"aggressiveMerging": true,
+		"compatibility": "*",
+		"inliner": {},
+		"keepBreaks": false,
+		"keepSpecialComments": "*",
+		"mediaMerging": true,
+		"processImport": true,
+		"processImportFrom": ["all"],
+		"rebase": true,
+		"restructuring": true,
+		"root": "${workspaceRoot}",
+		"roundingPrecision": 2,
+		"semanticMerging": false,
+		"shorthandCompacting": true
+	},
+	"workbench.tree.indent": 8,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"cSpell.language": "en,fa",
+	"reactSnippets.settings.prettierEnabled": true,
+	"prettier.enableDebugLogs": true,
+	"bladeFormatter.format.useTabs": true,
+	"editor.indentSize": "tabSize",
+	"prettier.useEditorConfig": false,
+	"bladeFormatter.format.indentInnerHtml": true,
+	"bladeFormatter.misc.dontShowNewVersionMessage": true,
+	"files.autoSave": "afterDelay"
+}
